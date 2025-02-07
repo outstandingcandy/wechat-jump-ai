@@ -6,4 +6,4 @@ Features:
 - Automatic distance calculation
 - Precise jump control
 
-https://github.com/outstandingcandy/wechat-jump-ai/blob/main/demo.mp4
+![Demo](demo.gif)
